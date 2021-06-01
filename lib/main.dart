@@ -31,8 +31,7 @@ class _QuizPageState extends State<QuizPage> {
   List<Icon> scoreKeeper = [
     Icon(Icons.check, color: Colors.green),
     Icon(Icons.close, color: Colors.red),
-    Icon(Icons.close, color: Colors.red),
-    Icon(Icons.close, color: Colors.red),
+
   ];
 
   @override
